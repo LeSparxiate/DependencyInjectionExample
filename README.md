@@ -1,0 +1,1 @@
+Simple dependency injection console application made in C#.
